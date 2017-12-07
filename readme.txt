@@ -1,2 +1,2 @@
 this is a instruction!!
-mx is a gay!
+mx is not a gay!
